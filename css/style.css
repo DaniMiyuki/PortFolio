@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+h1 {
+    font-family: 'Lobster', cursive;
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    text-decoration: dashed;
+}
+
+body {
+    font-size: 100%;
+    background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+}
+
+.container {
+    display: flex;
+}
